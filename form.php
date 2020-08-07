@@ -22,7 +22,9 @@ $mysqli->close();
 }
 
 
-echo "to bedzie w second commit"
+echo "to bedzie w second commit";
+
+echo "Rest Api is creating";
 
 
 echo "working";
