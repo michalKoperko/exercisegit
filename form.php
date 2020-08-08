@@ -26,6 +26,13 @@ echo "to bedzie w second commit";
 
 echo "Rest Api is creating";
 
+echo ""
 
+class User{
+	public $name;
+	public $surname;
+	
+
+}
 echo "working";
 ?>
