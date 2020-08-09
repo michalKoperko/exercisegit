@@ -32,7 +32,7 @@ class User{
 	public $name;
 	public $surname;
 	
-
+	private $password;
 }
 echo "working";
 ?>
